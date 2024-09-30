@@ -1,7 +1,6 @@
-# Intro To Arguments
+# intro to arguments
 
-The description asks us to run the `hello` command with a single argument of `hackers`
-
+the description asks me to run command `hello` with a single argument of `hackers`
 
 ```bash
 muizz@LAPTOP-VF1FT9IQ:~$ ssh -i ./key hacker@dojo.pwn.college
@@ -10,6 +9,4 @@ hacker@hello~intro-to-arguments:~$ hello hackers
 Success! Here is your flag:
 pwn.college{4lSD0ae67OBUnxpXktqY5h3jC2f.dhjNyUDLwMjN0czW}
 ```
-
-Arguments refer to the additional data we pass after the command.
-here the command is `hello` and `hackers` is an argument.
+this is how i solved it
