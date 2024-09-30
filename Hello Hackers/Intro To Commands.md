@@ -1,6 +1,6 @@
 # intro to commands
 
-The description asks me to enter `hello' to get the flag
+The description asks me to enter `hello` to get the flag
 
 
 ```bash
