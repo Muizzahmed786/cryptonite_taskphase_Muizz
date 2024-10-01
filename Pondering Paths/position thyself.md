@@ -23,4 +23,4 @@ Here is your flag:
 pwn.college{4anC42N9giILTMpfoxONTPFewJS.dZDN1QDLwMjN0czW}
 ```
 this is how i solved it.
-first we use the cd command to navigate directories. Then use the ls command to list the directory files. 
+first we use the `cd` command to navigate directories. Then use the `ls` command to list the directory files. Initially it shows that we are not in the given directory. if we execute the smae commands again, we will get the flag.
