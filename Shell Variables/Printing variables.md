@@ -3,6 +3,7 @@
 The description asks us to print the varible `FLAG` to get the flag.
 we have to use the `echo` command to prints the argument we write to `echo`.
 To print variables we have to use `$` before writing the variable.
+`$` is used to access variables.
 
 ```bash
 muizz@LAPTOP-VF1FT9IQ:~$ ssh -i ./key hacker@dojo.pwn.college
