@@ -1,4 +1,4 @@
-# Changin file ownership
+# Changing file ownership
 
 The description asks us to change the owner of `/flag` to `hacker` user.
 In this we have to use `ls -l` as our prompt to check the file or directory permissions.
